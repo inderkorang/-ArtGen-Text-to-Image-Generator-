@@ -2,7 +2,6 @@
 
 ## Project info
 
-**URL**:https://imagify-ai-app.vercel.app/
 
 
 
